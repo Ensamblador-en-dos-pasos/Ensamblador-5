@@ -1,0 +1,6 @@
+&ORG&$0
+&SWI
+&LDAA&85
+&LDAA&$FF
+&LDY&#$377
+&END
